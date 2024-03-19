@@ -8,4 +8,4 @@ This work analyses the occurrences of the letter 'e' in Wuthering Heights by Emi
 `scipts` consists of all the R code used in this project.
 
 # Statement on LLM Usage
-There were no aids used in this essay.
+There were no LLMs used in this essay.
